@@ -1,0 +1,16 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.env
+.ipynb_checkpoints/
+.pytest_cache/
+data/raw/*.csv
+data/raw/*.dbc
+data/raw/*.xlsx
+data/processed/*.parquet
+data/processed/*.csv
+models/*.pkl
+models/*.joblib
+*.log
+.DS_Store
