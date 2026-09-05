@@ -1,4 +1,4 @@
-# Relatório Final — BI de Saúde Hospitalar e Otimização de Leitos
+# Relatório Final — BI de Saúde Hospitalar e Planejamento de Leitos
 
 ## Resumo Executivo
 

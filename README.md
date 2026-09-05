@@ -1,4 +1,4 @@
-# BI de Saúde Hospitalar e Otimização de Leitos
+# BI de Saúde Hospitalar e Planejamento de Leitos
 
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat&logo=python&logoColor=white)
 ![Prophet](https://img.shields.io/badge/Prophet-forecasting-0868AC?style=flat)
@@ -66,8 +66,8 @@ bi-saude-hospitalar/
 **1. Clone o repositório**
 
 ```bash
-git clone https://github.com/dudumelo98/bi-saude-hospitalar.git
-cd bi-saude-hospitalar
+git clone https://github.com/dudumelo98/BI-de-sa-de-hospitalar-e-planejamento-de-leitos.git
+cd BI-de-sa-de-hospitalar-e-planejamento-de-leitos
 ```
 
 **2. Crie o ambiente virtual**
