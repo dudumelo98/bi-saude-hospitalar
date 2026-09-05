@@ -66,8 +66,8 @@ bi-saude-hospitalar/
 **1. Clone o repositório**
 
 ```bash
-git clone https://github.com/dudumelo98/BI-de-sa-de-hospitalar-e-planejamento-de-leitos.git
-cd BI-de-sa-de-hospitalar-e-planejamento-de-leitos
+git clone https://github.com/dudumelo98/bi-saude-hospitalar.git
+cd bi-saude-hospitalar
 ```
 
 **2. Crie o ambiente virtual**
